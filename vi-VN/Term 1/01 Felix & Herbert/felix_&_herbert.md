@@ -1,15 +1,15 @@
 ---
-title: Felix and Herbert
+title: Felix và Herbert
 level: Level 1
-language: en-GB
+language: vi-VN
 stylesheet: scratch
 embeds: "*.png"
 materials: "Felix-and-Herbert.sb2"
 note: "notes for club leaders.md"
 ...
 
-# Introduction { .intro}
-We are going to make a game of catch with __Felix the cat__ and __Herbert__ the mouse. You control Herbert with the mouse and try to avoid getting caught by Felix. The longer you avoid him the more points you score, but don’t get caught because your score will go down!
+# Giới thiệu { .intro}
+Chúng ta sẽ cùng làm một trò chơi đuổi bắt với __mèo Felix__ và chuột __Herbert__. You control Herbert with the mouse and try to avoid getting caught by Felix. The longer you avoid him the more points you score, but don’t get caught because your score will go down!
 
 ![screenshot](felixherbert_screenshot.png)
 

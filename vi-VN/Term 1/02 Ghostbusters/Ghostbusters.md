@@ -52,6 +52,7 @@ __Click vào lá cờ màu xanh__ và xem bóng ma của bạn làm gì. Tại s
 ## Bảng liệt kê hoạt động
 + To stop the ghost getting stuck we need to make her go back the other way when she touches the edge of the screen. Edit your existing script by adding an `if on edge, bounce` {.blockblue} block below your `move ` {.blockblue}`speed` {.blockorange}` steps` {.blockblue} block.
 + Để ngừng tình trạng bóng ma bị kẹt, chúng ta cần đưa nó trở lại một lối khác khi nó đi vào từ rìa màn hình. Edit bản script hiện tại bằng việc gõ thêm một khối gọi là 'if on adge, bounce' bên dưới 'move' 'speed' 'steps'
+
 ```blocks
 
 	when FLAG clicked

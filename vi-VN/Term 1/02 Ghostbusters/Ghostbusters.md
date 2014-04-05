@@ -7,8 +7,6 @@ embeds: "*.png"
 note: "notes for club leaders.md"
 ...
 
-# Introduction { .intro}
-This project is like the game __Whack-a-Mole__. You get points for hitting the ghosts that appear on the screen. The aim is to get as many points as possible in 30 seconds!
 # Giới thiệu
 Bản kế hoạch này giống như một trò chơi __Whack-a-Mole__. Bạn ghi điểm khi đánh vào những bóng ma xuất hiện trên màn hình. Mục tiêu là ghi thật nhiều điểm trong thời gian 30 giây!
 ![screenshot](ghostbsuters_screenshot.png)
